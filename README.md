@@ -6,7 +6,7 @@ I have some projects that are in private (12 repositories in total).
 They may look messy right now, I will make them public in the future.
 I'am trying to make them all in clean code and well tested.
 
-I will focus mainly on automatization normally.
+I will focus mainly on subject of automatization.
 
 ### Here is my prefered stacks :
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
