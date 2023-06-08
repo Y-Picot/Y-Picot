@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello, it's Yann, independent developer. 👋
 
-<!--
-**YTBeater/YTBeater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **I’m currently working on my website** 🔭
 
-Here are some ideas to get you started:
+I have some projects that are in private (12 repositories in total).
+They may look messy right now, I will make them public in the future.
+I'am trying to make them all in clean code and well tested.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I will focus mainly on automatization normally.
+
+### Here is my prefered stacks :
+<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="JAVA" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+<br>
+<br>
+<img height="250em" src="https://github-readme-stats.vercel.app/api?username=YTBeater&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<p> 
+    <a href="https://www.linkedin.com/in/yann-picot-993140151/" target="blank"><img align="left" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://twitter.com/picot_yann" target="blank"><img align="left" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+    <a href="mailto:i-mergie@proton.me" target="blank"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" /></a>
+</p>
