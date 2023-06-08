@@ -15,7 +15,7 @@ I will focus mainly on subject of automatization.
 
 <br>
 <br>
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=YTBeater&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="250em" src="https://github-readme-stats.vercel.app/api?username=YTBeater&show_icons=true&hide_border=true&include_all_commits=true" />
 
 <p> 
     <a href="https://www.linkedin.com/in/yann-picot-993140151/" target="blank"><img align="left" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
