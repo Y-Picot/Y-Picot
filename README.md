@@ -15,7 +15,9 @@ I will focus mainly on subject of automation.
 
 <br>
 <br>
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=YTBeater&show_icons=true&hide_border=true&include_all_commits=true" />
+<br>
+<h4>Screen of 29 june 2023</h4>
+<img src="/contributions.png" />
 
 <p> 
     <a href="https://www.linkedin.com/in/yann-picot-993140151/" target="blank"><img align="left" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
