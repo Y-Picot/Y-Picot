@@ -17,7 +17,7 @@ I will focus mainly on subject of automation.
 <br>
 <br>
 <h4>Screen capture of 29 june 2023</h4>
-<img src="/contributions.png" />
+<img src="/contribution.png" />
 
 <p> 
     <a href="https://www.linkedin.com/in/yann-picot-993140151/" target="blank"><img align="left" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
