@@ -2,7 +2,7 @@
 
 🔭 **I’m currently working on my website** 🔭
 
-I have some projects that are in private (12 repositories in total).
+I have some projects that are in private (18 repositories in total).
 They may look messy right now, I will make them public in the future.
 I'am trying to make them all in clean code and well tested.
 
