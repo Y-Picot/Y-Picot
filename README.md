@@ -16,7 +16,7 @@ I will focus mainly on subject of automation.
 <br>
 <br>
 <br>
-<h4>Screen capture of 22 march 2024</h4>
+<h4>Screen capture of 04 september 2024</h4>
 <img src="/contributions.png" />
 
 <p> 
