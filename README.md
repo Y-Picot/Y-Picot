@@ -12,11 +12,6 @@ I will focus mainly on subject of automation.
 - Collaborate with developers who want to build solutions that truly help users in their daily lives.
 - Contribute to meaningful, people-first projects with long-term value. (If I find the time to do so).
 
-## Here is my prefered stacks :
-<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JAVA" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
 <br>
 <br>
 <br>
