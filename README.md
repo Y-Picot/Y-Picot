@@ -19,7 +19,7 @@ I will focus mainly on subject of automation.
 <img src="/contribution.png" />
 
 <p> 
-    <a href="https://www.linkedin.com/in/yann-picot-993140151/" target="blank"><img align="left" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://www.linkedin.com/in/yann-picot/" target="blank"><img align="left" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
     <a href="https://twitter.com/picot_yann" target="blank"><img align="left" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
     <a href="mailto:i-mergie@proton.me" target="blank"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" /></a>
 </p>
