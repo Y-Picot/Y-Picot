@@ -6,12 +6,6 @@ I'm an independent software and web developer, founder of I-Mergie. With a stron
 I’m driven by the idea that technology should serve people first. Through my work, I aim to create practical, ethical, and privacy-conscious solutions that simplify tasks, protect data, and make digital tools more accessible—especially for those who aren’t tech professionals.
 I will focus mainly on subject of automation.
 
-## 🤝 My Goal on GitHub
-
-- Share only clean, well-structured, and secure code (which is why I don't have any public repositories worth sharing — yet).
-- Collaborate with developers who want to build solutions that truly help users in their daily lives.
-- Contribute to meaningful, people-first projects with long-term value. (If I find the time to do so).
-
 <br>
 <br>
 <br>
