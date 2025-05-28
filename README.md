@@ -7,8 +7,6 @@ I’m driven by the idea that technology should serve people first. Through my w
 I will focus mainly on subject of automation.
 
 <br>
-<br>
-<br>
 <h4>Screen capture of 14 April 2025</h4>
 <img src="/contribution.png" />
 
