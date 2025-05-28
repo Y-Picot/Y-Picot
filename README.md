@@ -7,9 +7,6 @@ I’m driven by the idea that technology should serve people first. Through my w
 I will focus mainly on subject of automation.
 
 <br>
-<h4>Screen capture of 14 April 2025</h4>
-<img src="/contribution.png" />
-
 <p> 
     <a href="https://www.linkedin.com/in/yann-picot/" target="blank"><img align="left" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
     <a href="https://twitter.com/picot_yann" target="blank"><img align="left" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
