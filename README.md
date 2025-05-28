@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm an independent software and web developer, founder of I-Mergie. With a strong background in backend and frontend development, I work across various technologies including Python, Java, JavaScript, PHP and C++. 
+I'm an independent software and web developer, founder of I-Mergie. With a strong background in backend and some frontend development, I work across various technologies including Python, Java, JavaScript, PHP and C++. 
 
 ## 🌱 What I Believe In
 I’m driven by the idea that technology should serve people first. Through my work, I aim to create practical, ethical, and privacy-conscious solutions that simplify tasks, protect data, and make digital tools more accessible—especially for those who aren’t tech professionals.
